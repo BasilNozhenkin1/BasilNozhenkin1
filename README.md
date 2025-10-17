@@ -19,25 +19,12 @@ I enjoy building scalable, secure, and maintainable web applications — from cl
 | Category | Tools & Technologies |
 |-----------|----------------------|
 | **Backend** | Laravel, PHP 8+, REST APIs, Livewire |
-| **Database** | MySQL, PostgreSQL, Query optimization |
-| **Frontend (basic)** | Blade, Bootstrap, Alpine.js, AJAX |
+| **Database** | MySQL, PostgreSQL, Query optimization, CTE |
+| **Frontend (basic)** | Blade, Vue.js, Alpine.js |
 | **DevOps / Tools** | Docker, Nginx, Git, Supervisor, Linux, Cron |
 | **Testing** | PHPUnit, Laravel Dusk |
 | **Reporting / Data** | TCPDF, PhpSpreadsheet, ReportLab integrations |
 | **Architecture** | Repository pattern, Service classes, Custom drivers, Caching layers |
-
----
-
-## 🧩 Featured Projects
-
-| Project | Description | Tech |
-|----------|--------------|------|
-| **Spare Parts Catalog** | Laravel-based system for managing and searching spare parts with dynamic categories | Laravel, MySQL, Blade |
-| **Road Sign Reports** | Automated Excel → PDF reporting using TCPDF | Laravel, PhpSpreadsheet, TCPDF |
-| **Facility Rating Dashboard** | Complex data aggregation for test facilities with filtering and statistics | Laravel, Eloquent, Blade |
-| **HDFS Storage Driver** | Custom Laravel file driver for Hadoop HDFS using Flysystem | Laravel, Flysystem, HTTP client |
-
-👉 See all repositories [here](https://github.com/BasilNozhenkin1?tab=repositories)
 
 
 ---
