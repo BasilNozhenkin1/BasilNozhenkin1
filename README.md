@@ -1,4 +1,9 @@
 # 👋 Hi, I'm Basil Nozhenkin  
+
+- 📍 Location: Astana, Kazakhstan
+- 🕒 Current time: <!-- This will auto-update in GitHub using shields.io -->
+
+![Current Time](https://img.shields.io/badge/Time-%F0%9F%95%93-<COLOR>.svg)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
