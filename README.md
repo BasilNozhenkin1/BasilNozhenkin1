@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Basil Nozhenkin  
 
-- 📍 Location: Astana, Kazakhstan
 
 ![Current Time](https://img.shields.io/badge/Time-%F0%9F%95%93-<COLOR>.svg)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
